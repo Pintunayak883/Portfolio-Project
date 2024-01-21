@@ -33,7 +33,7 @@ const Projctdata = [
   {
     id: 6,
     live: "",
-    git: "",
+    git: "https://github.com/Pintunayak883/Portfolio-Project",
     bg: "/images/Projct-6.png",
   },
 ];
