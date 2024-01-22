@@ -32,7 +32,7 @@ const Projctdata = [
   },
   {
     id: 6,
-    live: "",
+    live: "https://65adf1f27f6077e82adc039f--sensational-dango-201009.netlify.app/",
     git: "https://github.com/Pintunayak883/Portfolio-Project",
     bg: "/images/Projct-6.png",
   },
