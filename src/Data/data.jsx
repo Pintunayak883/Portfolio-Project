@@ -8,7 +8,7 @@ const Projctdata = [
   {
     id: 2,
     live: "https://nkmusic.netlify.app/",
-    git: "https://github.com/Pintunayak883/Music-App",
+    git: "https://github.com/Pintunayak883/Savvan-2.0",
     bg: "/images/Projct-2.png",
   },
   {
