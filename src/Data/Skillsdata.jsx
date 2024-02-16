@@ -1,17 +1,12 @@
 const Skillsdata = [
   {
     id: 1,
-    title: "Define Language",
-    info: <>HTML5, CSS3</>,
+    title: "Language",
+    info: <>HTML5, CSS3, JavaScript</>,
   },
   {
     id: 2,
-    title: "Programming Language",
-    info: <>JavaScript</>,
-  },
-  {
-    id: 3,
-    title: "Working Technologies",
+    title: "Framework & Libraries",
     info: (
       <>
         ReactJS, Redux Toolkit, React Router, Axios, Bootstrap, Tailwind CSS,
@@ -20,9 +15,9 @@ const Skillsdata = [
     ),
   },
   {
-    id: 4,
-    title: "Other",
-    info: <>GitHub, Chat GPT</>,
+    id: 3,
+    title: "Version Control",
+    info: <>GitHub</>,
   },
 ];
 

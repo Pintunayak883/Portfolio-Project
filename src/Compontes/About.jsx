@@ -9,11 +9,12 @@ const About = () => {
             About me
           </h3>
           <p className="md:text-[18px] mt-3 font-[Roboto]">
-            Hello, mera naam Pintu Nayak hai aur main 20 saal ka hoon. Main
-            Jaipur mein rehta hoon. Main ek front-end developer hoon, jo HTML,
-            CSS, JavaScript, aur React jaise technologies ke saath web
-            development karne ki samarth rakhata hoon. Maine kuch projects
-            banaye hain, jinki details niche di gayi hain. Dhanyavad.
+            A dedicated Front-End Developer with expertise in HTML, CSS,
+            JavaScript, and React. Passionate about creating engaging and
+            user-friendly websites. Committed to learn and staying updated on
+            the latest industry trends delivering high-quality web solutions.
+            Seeking an entry-level position to contribute to a team environment
+            and expand knowledge through real-world experience.
           </p>
         </div>
       </div>
